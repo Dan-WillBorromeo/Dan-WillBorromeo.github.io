@@ -11,9 +11,9 @@ h1{
 
 ul{
   color: green;
-  line-height: 2;
+  line-height: 1.5;
   outline-color: black;
-  outline-width: 20px;
+  outline-width: 10px;
   outline-style: inset;
   font-size: 24px;
   font-weight: bold;
