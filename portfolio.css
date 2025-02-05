@@ -164,10 +164,12 @@ footer {
   width: 100%;
   max-width: 552px; /* Ensures it doesn’t get too large */
   height: auto;
+    overflow: hidden;
 }
 
 .embed-container iframe {
   width: 100%;
   height: auto;
   min-height: 167px; /* Prevents it from getting too small */
+    overflow: hidden;
 }
