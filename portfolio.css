@@ -29,6 +29,7 @@ nav {
     padding: 1rem;
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 
 nav ul {
@@ -162,6 +163,7 @@ footer {
 
 .embed-container {
   position: relative;
+    z-index: 1;
   width: 100%;
   max-width: 552px; /* Ensures it doesn’t get too large */
   height: auto;
@@ -171,5 +173,4 @@ footer {
   width: 100%;
   height: auto;
   min-height: 167px; /* Prevents it from getting too small */
-     z-index: 1;
 }
