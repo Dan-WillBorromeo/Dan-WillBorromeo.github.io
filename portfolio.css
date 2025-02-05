@@ -163,6 +163,7 @@ footer {
   width: 100%;
   max-width: 552px; /* Ensures it doesn’t get too large */
   height: auto;
+    z-index: 1;
 }
 
 .embed-container iframe {
